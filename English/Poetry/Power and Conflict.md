@@ -109,3 +109,19 @@
 * Anger
 * Personal conflict
 
+## Storm on the Island - Seamus Heaney:
+
+### Context:
+* Heaney grew up in a rural island
+* References the "troubles" in Ireland, Stormont is the Northern Irelang Govenment building
+
+### Form and Structure:
+* Conversational tone using blank verse with no rhyme and one long stanza
+* Present tense makes us feel within the storm *(aparently?)*
+* End: "It is a huge nothing that we fear", suggests more to be feared then just the storm.
+
+### Language:
+* War imagery, "salvo", "bombarded", makes the weather sound like its attacking
+* Simile, "like a tame cat turned savage"
+* Sibilance creates the sound of the wind, "dives and strafes invisibly"
+* "exploding comfortably" *(:eyes: sorru wahaht)*

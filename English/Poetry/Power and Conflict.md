@@ -96,3 +96,16 @@
 ### Form and Structure:
 * First person voice of the poet speaking directly to the reader
 * Two structures with different fonts and rhyme schemes for what he is told Vs. his own history *(battle royal)*.
+* Repeated phrases reflect repetition of what he is told
+
+### Language:
+* Nurery rhyme references show what English history means to him, eg "Old King Cole"
+* Light imagery linked to black heroes "beacon", "star" and "fire-woman"
+* Natural imagery linked to black heroes, eg "freedom river".
+* "I carving out me identity" makes it seem like he has to work hard to do this in the society.
+
+### Themes:
+* Human power
+* Anger
+* Personal conflict
+

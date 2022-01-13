@@ -13,3 +13,17 @@
 
 #### Corrosion:
 * The acids in the water causing erosion.
+
+
+### The river tees
+#### Some info:
+Source: Near the Pennines (apparently a marshy area)  
+Mouth: Middlesbrough (the north sea basically)  
+Course: It flows towards the east and reaches the North Sea  
+Length: 85 miles (long)
+Major tributaries: 
+	* Waterfalls formed by a strong rock called windstone
+	* A gorge is formed as it moves back
+
+	
+

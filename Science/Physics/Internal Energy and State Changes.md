@@ -1,7 +1,7 @@
 ## Density:  
 
 ### Equation:
-!()[https://www.thecalculatorsite.com/images/density-formula.png]
+![](https://www.thecalculatorsite.com/images/density-formula.png)
 
 * The density of an objects depends on what it's made of and how it's particles are arranged. 
 

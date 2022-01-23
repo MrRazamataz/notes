@@ -4,5 +4,5 @@
 
 | Density:      | Info: |
 | ----------- | ----------- |
-| Dense      | Particles tightly packed       |
-| Less dense   | More spread out - easier to compress        |
+| Dense      | Particles tightly packed |
+| Less dense   | More spread out - easier to compress |

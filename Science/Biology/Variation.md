@@ -1,6 +1,6 @@
 ## Variation:
 
-### Organisms of the same species have differnces:
+### Organisms of the same species have differences:
 
 A cat looks different to a duck because they are different species.
 Orangisms of the same species will usually look at *least* slightly different. For eg, hair and eye colour.
@@ -17,7 +17,11 @@ These differnces are called variation.
 
 
 
-* Enviromental Variation
+#### Enviromental Variation:
+	
+	* The environment, including the conditions that organisms live and grow in, also causes differences  between members of the same species — this is called environmental variation.
+	* For example, a plant grown in plenty of sunli*ht would be luscious and green, but the same plant grown in darkness would grow and spindly, and have yellow leaves. These are environmental variations.
+	* Environmental variation covers a wide range of differences — from losing your toes in a piranha attack, to getting a suntan, to having yellow leaves etc
 
 
 

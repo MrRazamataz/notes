@@ -20,7 +20,7 @@ These differnces are called variation.
 #### Enviromental Variation:
 	
 	* The environment, including the conditions that organisms live and grow in, also causes differences  between members of the same species — this is called environmental variation.
-	* For example, a plant grown in plenty of sunli*ht would be luscious and green, but the same plant grown in darkness would grow and spindly, and have yellow leaves. These are environmental variations.
+	* For example, a plant grown in plenty of sunlight would be luscious and green, but the same plant grown in darkness would grow and spindly, and have yellow leaves. These are environmental variations.
 	* Environmental variation covers a wide range of differences — from losing your toes in a piranha attack, to getting a suntan, to having yellow leaves etc
 
 

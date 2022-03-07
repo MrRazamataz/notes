@@ -11,4 +11,4 @@
 
 ## Stuff:
 
-** metal + carbonate --> salt + water + CO<sub>2</sub>
+**metal + carbonate --> salt + water + CO<sub>2</sub>**

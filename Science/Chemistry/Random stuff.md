@@ -7,7 +7,7 @@
 
 ## Neutralisation:  
 
-**OH<sup>-</sup> (aq) + H<sup>+</sup> (aq) --> H<sub>2</sub>0 (l)
+**OH<sup>-</sup> (aq) + H<sup>+</sup> (aq) --> H<sub>2</sub>0 (l)**
 
 ## Stuff:
 

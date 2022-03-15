@@ -63,3 +63,9 @@
 * UV radiation damages surface cells, which can lead to sunburn and cause skin to age prematurely. Some serious effects are blindness and an increased risk of skin cancer.
 * X-rays and gamma rays are types of ionising radiation. Can cause cell destruction or gene mutation, and cancer.
 * **Risk is measured in Sieverts**.
+
+
+### Unit conversions:
+
+1Hz = 0.000001MHz
+1MHz = 1000000Hz

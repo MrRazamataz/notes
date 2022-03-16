@@ -1,6 +1,12 @@
 ## Waves  
 * Waves transfer energy from one place to another without transferring any matter.  
-
+### P and S waves:
+* P waves are longitudinal
+* S waves are transverse
+* P waves:
+    * Travel in liquids and solids
+* S waves:
+    * Travel in solids
 ### Transverse waves:  
 * Vibrations (oscillations) are perpendicular to the direction of energy transfer.
 * *Most* waves are transverse, eg: All electromagnetic waves (light, etc), Ripples and waves in water and a wave on a string.  

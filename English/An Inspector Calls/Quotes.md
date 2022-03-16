@@ -13,7 +13,6 @@ anguish” - Inspector, Act 3
 ### Guilt:  
 * “Still, I can’t accept any responsibility” - Mr Birling, Act 1
 * “I would give thousands, thousands!” - Mr Birling, Act 3
-*
 
 ### Age:
 * “You’ve got a lot to learn… And I’m speaking as a hard-headed, practical

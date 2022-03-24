@@ -27,7 +27,7 @@
 - built on existing farmers land
 - rejected as it contributes to urban sprawl
 
-#### Brownfiels sites:
+#### Brownfield sites:
 - ikea built on the old tinsley wire factory
 - £60million construction costs
 - 300 building jobs and 700 employees
@@ -59,8 +59,10 @@
 - 1 million people
 - just over 2km^2
 - makes over $1 million a year
+
 ##### Housing:
-*Most housing and 90% of commercial units in Dharavi are illegal
+* Most housing and 90% of commercial units in Dharavi are illegal
+
 ##### Water:
 * Water pipes are directly next to sewage pipes  
 
@@ -100,6 +102,6 @@
 
 
 
-### Other:
+## Other:
 #### Tata group:
 * A TNC with its headquarters located in Mumbai - employs over 35,000 people

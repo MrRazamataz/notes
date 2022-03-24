@@ -92,8 +92,23 @@
 
 #### Push factors:
 * Drought causing farmer's crops to die
+* unemployment.
+* lower wages.
+* poor living conditions.
+* poor health and education services.
+* few facilities.
+* natural disasters.
+* civil war.
+
 #### Pull factors:
 * 60% more people in the city have access to sanitation
+* more jobs.
+* higher wages.
+* better living conditions.
+* better education and health services.
+* better facilities.
+* less chance of natural disasters.
+
 #### Port and airport:
 -international airport is the 29th busiest in the world and 19th in Asia
 -6 million tourists a year

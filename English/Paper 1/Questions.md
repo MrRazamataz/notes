@@ -1,8 +1,8 @@
 ## Questions:
 
 ### Question 1: [4 marks]
-* Find information in the next.
-* List four things.
+* Find information in the text.
+* List four things (in own words or quotations).
 
 ### Question 2:
 * Write about how the writer uses language.

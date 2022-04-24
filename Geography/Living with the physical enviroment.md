@@ -5,9 +5,9 @@
 
 #### Geological Hazards:
 * Caused by land and tectonic processes.
-* Volcaneos and earthquakes etc
+* Volcanoes and earthquakes etc
 
-#### Meterological Hazards:
+#### Meteorological Hazards:
 * Caused by weather and climate change.
 * Tropical storms, extreme weather etc
 

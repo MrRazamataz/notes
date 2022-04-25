@@ -23,6 +23,8 @@ man of business … I say there isn’t a chance of war.” - Mr Birling, Act 1
 * “A man has to look after himself- and his family too, of course” - Mr Birling, Act 1
 * “Probably a Socialist or some sort of crank” - Mr Birling, Act 1
 * “I was almost certain for a knighthood” - Mr Birling, Act 3
+* "Soon people will be asking for the Earth" - Mr Birling
+* "Its better to ask for the Earth then to take it." - The Inspector
 
 ### Class:
 * “We’re respectable citizens, not criminals” - Gerald, Act 1

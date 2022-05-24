@@ -23,6 +23,15 @@
 * Anger
 * Pride
 
+### Compare to:
+#### Unpleasant experiences:
+* The Prelude
+* Exposure
+* Bayonet Charge
+* Remains
+#### Misuse of human power:
+* My Last Duchess
+
 ## Remains - Simon Armitage:
 ### Context:
 * PTSD
@@ -46,13 +55,14 @@
 ## Ozymandias - Percy Bysshe Shelley:
 ### Context:
 * Ozymandias refers to Pharaoh Rameses II *(basically the old-age equivalent of a tory)*
-* Shelley was anti-monarchy *(wayyyyyyy gottem)* and against govenments which thought they were invincible.
+* Shelley was anti-monarchy *(wayyyyyyy gottem)* and against governments which thought they were invincible.
 * Bisexual *(blame Blueshark1133#9735 if this is wrong)*
 
 ### Form and Structure:
-* Sonnet form but without simple rhyming scheme and not about love
+* **Sonnet form** but without simple rhyming scheme and not about love
 * 2 speakrs *(omniscient narrator and traveller)*
 * One long stanza to "reflect storytelling" *(what? yeah, just go with it)*
+* Caesura = line break
 
 ### Language:
 * Alliteration reflects the nothingness of the desert *(and my will to keep writing these notes)*. For example "lone and level" and "boundless and bare"
@@ -65,11 +75,29 @@
 * Human Power
 * Pride
 
+### Quotes:
+“Vast and trunkless legs of stone”
+“Half sunk”
+“Shattered visage”
+“Sneer of cold command”
+“My name is Ozymandias, king of kings..."
+“Nothing besides remains round the decay..."
+**“My name is Ozymandias, king of kings: / Look on my works, ye Mighty, and despair!”**
+
+### Compare to:
+#### Power of nature vs power of humans:
+* Storm on the Island
+* Exposure
+* The Prelude and Tissue
+#### Powerful individuals, misuse of power and corruption:
+* My Last Duchess
+* London
+
 ## Exposure - Wilfred Owen:
 
 ### Context:
 * Owen was a soldier in WW1 *(THEY DIG THIS, JUST GET IN IN FR)* and died in battle *(dunno how he wrote this then)*
-* He was very critical of those in charge durning the war and felt war was pointless *(like poetry!)*
+* He was very critical of those in charge during the war and felt war was pointless *(like poetry!)*
 
 ### Form and Structure:
 * Repition of hopeless statements "but nothing happens" as half-line at the end of each stanza

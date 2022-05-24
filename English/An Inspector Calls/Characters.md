@@ -56,7 +56,8 @@ fire and blood and anguish. Good night."
 * "The Titanic – she sails next week…and unsinkable, absolutely
 unsinkable." - shows Mr Birling's complete trust in capitalism.
 * "Probably a Socialist or some sort of crank"
-
+* "This makes a difference, y'know. In fact, it makes all the difference."
+* "I've got to cover this up as soon as I can."
 
 ### Sybil Birling:  
 #### Character:  

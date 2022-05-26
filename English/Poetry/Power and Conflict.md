@@ -2,7 +2,7 @@
 
 ## London - William Blake:
 ### Context:
-* Blake was concered with how the industrial revolution had made people's lives worse (inequality)
+* Blake was concerned with how the industrial revolution had made people's lives worse (inequality)
 * Rejected organised religion
 
 ### Form and structure:
@@ -60,7 +60,7 @@
 
 ### Form and Structure:
 * **Sonnet form** but without simple rhyming scheme and not about love
-* 2 speakrs *(omniscient narrator and traveller)*
+* 2 speakers *(omniscient narrator and traveller)*
 * One long stanza to "reflect storytelling" *(what? yeah, just go with it)*
 * Caesura = line break
 
@@ -145,7 +145,7 @@
 
 ### Form and Structure:
 * Conversational tone using blank verse with no rhyme and one long stanza
-* Present tense makes us feel within the storm *(aparently?)*
+* Present tense makes us feel within the storm *(apparently?)*
 * End: "It is a huge nothing that we fear", suggests more to be feared then just the storm.
 
 ### Language:

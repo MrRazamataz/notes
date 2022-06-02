@@ -28,7 +28,7 @@
 - rejected as it contributes to urban sprawl
 
 #### Brownfield sites:
-- ikea built on the old tinsley wire factory
+- Ikea built on the old Tinsley wire factory
 - £60million construction costs
 - 300 building jobs and 700 employees
 - £2 million spent on improving local road network and £400,000 spent on improving sustainable transport

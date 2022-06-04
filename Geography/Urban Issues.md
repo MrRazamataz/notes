@@ -141,6 +141,12 @@
 * Benefits: `If Vietnam gets richer they will trade more with Australia so Australia can make more
 money selling things to the Vietnamese.`
 
+##### [Noor's Ducks (Bottom Up)](https://www.youtube.com/watch?v=i0IwDk7m4e0):
+* Came from: `Christian aid partner. `
+* Eat harmful insects off of the rice fields, saves money on fertilizer  
+* Breed a lot, can sell eggs.
+
+
 ## ----------
 
 ## Other:

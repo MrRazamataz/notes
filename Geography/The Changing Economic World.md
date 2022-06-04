@@ -18,7 +18,7 @@
 * Possible quality of life increases.
 
 ### Reducing the development gap:
-* Aid (top down & bottom up)
+* [Aid (top down & bottom up)](https://github.com/MrRazamataz/notes/blob/main/Geography/Urban%20Issues.md#aid)
 * Intermediate technology
 * Debt relief
 * Micro-finance

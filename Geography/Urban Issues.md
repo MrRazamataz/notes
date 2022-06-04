@@ -1,5 +1,6 @@
 ## Case studies:  
 
+
 ### Sheffield:
 #### Transport:
 ##### Mainline rail connections:
@@ -53,7 +54,9 @@
 - gasses like carbon dioxide are still emitted ion small quantities
 - disincentive to recycling
 
-### Mumbai
+## ----------
+
+### Mumbai:
 #### Dharavi:
 - one of the largest slums in the world
 - 1 million people
@@ -85,11 +88,6 @@
 - leather
 - pottery
 
-
-
-
-
-
 #### Push factors:
 * Drought causing farmer's crops to die
 * unemployment.
@@ -110,12 +108,30 @@
 * less chance of natural disasters.
 
 #### Port and airport:
--international airport is the 29th busiest in the world and 19th in Asia
--6 million tourists a year
--port employs 7000 people
--port annual tonnage of 6 million tons
+* international airport is the 29th busiest in the world and 19th in Asia
+* 6 million tourists a year
+* port employs 7000 people
+* port annual tonnage of 6 million tons
+
+## ----------
 
 
+### Vietnam:
+* NEE with a GDP per capita of $2540
+* Literacy rate of 95%
+* 7% of Vietnam's income comes from tourism
+* The south of Vietnam is richer than the north
+
+#### Samsung in Vietnam:
+* Employs 600 People
+* 80% of the workforce are women
+* More than 2000 new restaurants have opened around the factory
+
+* Workers work 70-80 hours a week
+* Workers have to stand for 8.12 hours shifts.
+* Farm land destroyed from constructing the factory.
+
+## ----------
 
 ## Other:
 #### Tata group:

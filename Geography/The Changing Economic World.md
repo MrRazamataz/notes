@@ -16,3 +16,12 @@
 * Better access to healthcare.
 * More educational opportunities.
 * Possible quality of life increases.
+
+### Reducing the development gap:
+* Aid (top down & bottom up)
+* Intermediate technology
+* Debt relief
+* Micro-finance
+* Fair Trade
+* Tourism
+* Industrial development

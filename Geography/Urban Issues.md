@@ -118,11 +118,11 @@
 
 ### Vietnam:
 * NEE with a GDP per capita of $2540
-* Literacy rate of 95%
+* Literacy rate of 97%
 * 7% of Vietnam's income comes from tourism
 * The south of Vietnam is richer than the north
 
-#### Samsung in Vietnam:
+#### Samsung (TNC) in Vietnam:
 * Employs 600 People
 * 80% of the workforce are women
 * More than 2000 new restaurants have opened around the factory
@@ -130,6 +130,16 @@
 * Workers work 70-80 hours a week
 * Workers have to stand for 8.12 hours shifts.
 * Farm land destroyed from constructing the factory.
+
+#### AID:
+##### Cao Lanh Bridge Mekong Delta:
+* Purpose: `Improve transport: Faster trade between farm -> where they sell. Made it easier to export.`
+* Facts:  
+`Used by 170,000 people a day`  
+`Built between 2013-2018`
+`90% of Vietnam's rice is exported from this area`  
+* Benefits: `If Vietnam gets richer they will trade more with Australia so Australia can make more
+money selling things to the Vietnamese.`
 
 ## ----------
 

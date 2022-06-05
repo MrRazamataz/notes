@@ -57,6 +57,9 @@
 ## ----------
 
 ### Mumbai:
+#### Tata group:
+* A TNC with its headquarters located in Mumbai - employs over 35,000 people
+
 #### Dharavi:
 - one of the largest slums in the world
 - 1 million people
@@ -148,7 +151,3 @@ money selling things to the Vietnamese.`
 
 
 ## ----------
-
-## Other:
-#### Tata group:
-* A TNC with its headquarters located in Mumbai - employs over 35,000 people

@@ -131,6 +131,10 @@
 * Workers have to stand for 8.12 hours shifts.
 * Farm land destroyed from constructing the factory.
 
+#### Tata group:
+* A TNC with its headquarters located in Mumbai - employs over 35,000 people
+
+
 #### AID:
 ##### Cao Lanh Bridge Mekong Delta:
 * Purpose: `Improve transport: Faster trade between farm -> where they sell. Made it easier to export.`
@@ -148,7 +152,3 @@ money selling things to the Vietnamese.`
 
 
 ## ----------
-
-## Other:
-#### Tata group:
-* A TNC with its headquarters located in Mumbai - employs over 35,000 people

@@ -25,3 +25,13 @@
 * Fair Trade
 * Tourism
 * Industrial development
+
+### Measuring the development gap:
+* Gross National Income (GNI) per head: Total money earned. GNI per head is equal to the GNI divided by the country's population.  
+* Infant mortality rate (before age of 1). per 1000
+* Access to safe water (%)
+* Human development Index (HDI): Combines different measures like education, healthcare, income, life expectancy and others. Ranges from 0 to 1.
+* Literacy rate (%).
+* People per doctor: population/doctors
+* Life expectancy
+* Birth and death rates, per 1000.

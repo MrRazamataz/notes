@@ -11,9 +11,9 @@
 
 #### Economy:
 - total yearly economy worth £7 billion
--suffered from deindustrialisation and decline of steel manufacturing
--each of the two universities employ over 4000 staff
--students generate £120 million for the city
+- suffered from deindustrialisation and decline of steel manufacturing
+- each of the two universities employ over 4000 staff
+- Students generate £120 million for the city
 
 #### Environment:
 - described as the greenest city in Europe (cap)  
@@ -39,11 +39,15 @@
 - 330 student spaces
 - S1 art space
 - social housing
+- 10 contemporary workspaces
 
 #### Waste management:
 32.60% of household waste is recycled or composted
 67.14% is burnt
 0.26% is sent to landfill.
+
+#### AMRC:
+•	Advanced Manufacturing Research Centre world renounced in modern developments in the steel industry.
 
 #### Incinerator:
 * 140 buildings connected to the direct energy network.
@@ -56,9 +60,36 @@
 
 ## ----------
 
+### Freiburg in Germany:
+#### Population: 220,000 people.
+#### Size: 155km²
+#### Green:
+* Started early in the Green Movement in the 1970s.
+
+#### Transport:
+* Updates its traffic management and cycle path plan every 10 years.
+* Prioritises cycling/walking/public transport
+* 30km tram network and is connected to the 168km of city bus routes + regional rail system.
+* 70% of the population lives within 500 meters of a tram stop
+* Trains appear every 7.5 minutes during rush hours
+* Public transport is cheap.
+
+#### Energy:
+* Uses lots of solar energy.
+
+#### Waste Management:
+* 70% of waste is recovered and reused.
+* 50,000 landfills in 1970s, 200 today.
+* Freiburg has 26 rotating collection sites.
+* Freiburg's annual waste disposal was 50,000 tons in 2000.
+* That waste is burned for energy in an incinerator 20km from the city
+
+## ----------
 ### Mumbai:
 #### Tata group:
 * A TNC with its headquarters located in Mumbai - employs over 35,000 people
+* Owns many well-known brands, such as Jaguar, Range rover etc.
+* Tata steel is responsible for $103 billion of India’s GDP.
 
 #### Dharavi:
 - one of the largest slums in the world
@@ -116,10 +147,19 @@
 * port employs 7000 people
 * port annual tonnage of 6 million tons
 
+#### AID:
+##### Dharavi housing redevelopment:
+* Bottom up approach = high rise towers which maintain the sense of community by having a walk way that connect the different buildings, corridors which allow people to socilaise, areas for people to gather and children to play. Flats have kitchens and toilets.
+* Top down approach = People are moved out of Dharavi. Flats are shared between 2 families. Flats have kitchens and toilets. Safer than living on the street but they are an hour away from Dharavi, which causes them to lose the sense of community, plus involves long commute if they work back in the city.
+* Small scale NGO (Non-governmental organization) = Sanitation, clean water and electricity are added retrospective to Dharavi. Maintains sense of community, improved quality of life/standard of living. It is expensive and small scale. Street space is reduced, but it is already limited.
+
+
 ## ----------
 
 
 ### Vietnam:
+* 98 million population
+* Stage 3 of DTM
 * NEE with a GDP per capita of $2540
 * Literacy rate of 97%
 * 7% of Vietnam's income comes from tourism
@@ -133,6 +173,13 @@
 * Workers work 70-80 hours a week
 * Workers have to stand for 8.12 hours shifts.
 * Farm land destroyed from constructing the factory.
+
+#### Tourism case study - Halong Bay:
+* Every year, 5.5 million tourists vising Halong Bay in the Guld of Tonkin.
+* Tourism creates a positive multiplier effect:
+```
+Tourists spend money in shops/services, this increases the local demand for goods/services so local suppliers (farmers/fishermen/businesses) make more money. These people pay tax so the local & national government’s tax revenue increases. More demands means more jobs are created, so again more tax & more money in the local economy. This increased tax revenue can be used to build more schools, hospitals & improve the infrastructure in the area.
+```
 
 #### AID:
 ##### Cao Lanh Bridge Mekong Delta:

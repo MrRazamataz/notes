@@ -173,6 +173,7 @@
 * Workers work 70-80 hours a week
 * Workers have to stand for 8.12 hours shifts.
 * Farm land destroyed from constructing the factory.
+* Samsung is a South Korean company so economic leakage occurs, where profit is sent abroad
 
 #### Tourism case study - Halong Bay:
 * Every year, 5.5 million tourists vising Halong Bay in the Guld of Tonkin.
@@ -198,3 +199,8 @@ money selling things to the Vietnamese.`
 
 
 ## ----------
+
+
+## UK North/South Divide:
+* South get more money sad :(
+* bojo.

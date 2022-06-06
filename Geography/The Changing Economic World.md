@@ -35,3 +35,14 @@
 * People per doctor: population/doctors
 * Life expectancy
 * Birth and death rates, per 1000.
+
+### Causes of uneven development:
+* Bad trade links/geographic position
+* Export primary production for less (not processed)
+* High national debt
+
+### Consequences of uneven development:
+* International migration
+* Income - In 2017, Malawi's GNI per capita was $338. In the USA, it was $59,530 (176x higher).
+* Health - In Malawi, the infant mortality rate is 35 per 1,000 births. In the UK it is 4. So almost 10x as many babies die before age 1 in Malawi.
+Life expectancy is 81 in the UK and 63 in Malawi.

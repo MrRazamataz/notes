@@ -22,7 +22,7 @@
 ## Methods and language thingies:
 ### What it looks like and how its written:
 * Stanzas and like the paragraphs
-* Alliteration (Sussy Silly Susface etc)
+* Alliteration (Sussy Silly Susface etc) *that would actually be sibilance but stfu*
 * "Powerful" verbs
 * Visual imagery with like emotion or something (like the natural world and importance of love idk)
 * Couplets
